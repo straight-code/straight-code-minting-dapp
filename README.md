@@ -47,7 +47,7 @@ Note: this dapp is designed to work with the intended NFT smart contract, that o
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "straight-coder Cliub",
+  "NFT_NAME": "straight-coder",
   "SYMBOL": "SCC",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 75000000000000000,
